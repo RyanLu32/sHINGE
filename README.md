@@ -1,3 +1,3 @@
 # sHINGE
 Source code for sHINGE
-## How to run the code 
+# How to run the code 
