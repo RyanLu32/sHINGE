@@ -5,6 +5,8 @@
 ```
 python builddata.py --data_dir <PATH>/<DATASET>/
 
+
+
 python builddata.py --data_dir <PATH>/<DATASET>/ --if_permutate True --bin_postfix _permutate
 ```
 ###### Train and evaluate model (suggested parameters for both JF17k and Wiki dataset)
