@@ -4,6 +4,9 @@
 
 # How to run the code 
 
+###### Datasets link: https://drive.google.com/drive/folders/1pTxtG-KPKTzBM-HkgQjG6qQMkydPGSU0?usp=sharing
+
+
 ###### Data preprocessing
 ```
 python builddata.py --data_dir <PATH>/<DATASET>/
