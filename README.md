@@ -1,6 +1,6 @@
 # sHINGE (Schema-aware Hyper-relational Knowledge Graph Embedding)
 
-**sHINGE** is a schema-aware hyper-relational KG embedding model, which directly learns from both hyper-relational facts and their corresponding schema information in a KG. sHINGE captures not only the primary structural information of the KG encoded in the triplets and their associated key-value pairs, but also the schema information encoded by entity-typed triplets and their associated entity-typed key-value pairs. Please see the details in our paper below:
+**sHINGE** is a schema-aware hyper-relational KG embedding model, which directly learns from both hyper-relational facts and their corresponding schema information in a KG. sHINGE captures not only the primary structural information of the KG encoded in the triplets and their associated key-value pairs, but also the schema information encoded by entity-typed triplets and their associated entity-typed key-value pairs.
 
 # How to run the code 
 
@@ -45,4 +45,4 @@ numpy: 1.18.1
 tensorflow-gpu: 2.2.0
 
 # Reference
-If you use our code or datasets, please cite:
+To be announced
