@@ -1056,7 +1056,7 @@ def main():
         t2.tic()
         output_queue = mp.Queue()
 
-        prepare_data_for_evaluation_and_evaluate_on_multiple_gpus(model, test, epoch, n_rel_keys, n_entities_values,
+        prepare_data_for_evaluation_and_evaluate_on_multiple_gpus(model, test, n_rel_keys, n_entities_values,
                                                                   whole_train, whole_test, whole_valid,
                                                                   gpu_ids_splitted, output_queue,
                                                                   entityId2SparsifierType)
